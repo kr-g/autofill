@@ -1,0 +1,5 @@
+{
+    "name":"web_de",
+    "url" : "https://www.web.de/", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

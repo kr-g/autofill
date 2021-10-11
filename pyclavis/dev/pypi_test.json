@@ -1,0 +1,5 @@
+{
+    "name":"pypi_test",
+    "url" : "https://test.pypi.org/account/login/", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

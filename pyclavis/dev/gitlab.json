@@ -1,0 +1,5 @@
+{
+    "name":"gitlab",
+    "url" : "https://gitlab.com/users/sign_in", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

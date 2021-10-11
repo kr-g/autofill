@@ -1,0 +1,5 @@
+{
+    "name":"xing",
+    "url" : "https://login.xing.com/", 
+    "autofill": "{SELALL}\n{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

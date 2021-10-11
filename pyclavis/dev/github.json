@@ -1,0 +1,5 @@
+{
+    "name":"github",
+    "url" : "https://github.com/login", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

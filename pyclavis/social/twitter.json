@@ -1,0 +1,5 @@
+{
+    "name":"twitter",
+    "url" : "https://twitter.com/i/flow/login", 
+    "autofill": "{USER}\n{TAB}\n{ENTER}\n{PASSWORD}\n{ENTER}"
+}

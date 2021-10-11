@@ -1,0 +1,5 @@
+{
+    "name":"facebook",
+    "url" : "https://www.facebook.com/", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

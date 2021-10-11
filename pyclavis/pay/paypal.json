@@ -1,0 +1,5 @@
+{
+    "name":"paypal",
+    "url" : "https://www.paypal.com/de/signin", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}

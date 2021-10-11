@@ -1,0 +1,5 @@
+{
+    "name":"generic-2-steps",
+    "url" : "{URL:use-with-profile}", 
+    "autofill": "{USER}\n{ENTER}\n{DELAY {NDELAY:2000}}\n{PASSWORD}\n{ENTER}"
+}

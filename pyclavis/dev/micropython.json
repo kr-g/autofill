@@ -1,0 +1,7 @@
+{
+    "name":"micropython",
+    "url" : "https://forum.micropython.org/ucp.php?mode=login", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}
+
+

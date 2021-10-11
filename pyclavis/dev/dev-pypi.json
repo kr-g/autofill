@@ -1,0 +1,6 @@
+{
+    "name":"org-pypi",
+    "url" : "https://{PYPI:www}.pypi.org/account/login/", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}
+

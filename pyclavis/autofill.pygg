@@ -1,0 +1,8 @@
+[predef_pull]
+url = "https://github.com/kr-g/autofill"
+tag = main
+base = "pyclavis/base/*.json", "pyclavis"
+dev = "pyclavis/dev/*.json", "pyclavis-dev"
+pay = "pyclavis/pay/*.json", "pyclavis-pay"
+social = "pyclavis/social/*.json", "pyclavis-social"
+stores = "pyclavis/stores/*.json", "pyclavis-stores"

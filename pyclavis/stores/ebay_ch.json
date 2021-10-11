@@ -1,0 +1,5 @@
+{
+    "name":"ebay.ch",
+    "url" : "https://signin.ebay.ch/ws/eBayISAPI.dll?SignIn&ru=https%3A%2F%2Fwww.ebay.ch%2F", 
+    "autofill": "{USER}\n{ENTER}\n{DELAY 2000}\n{PASSWORD}\n{ENTER}"
+}

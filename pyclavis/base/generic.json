@@ -1,0 +1,9 @@
+{
+    "name":"generic",
+    "url" : "{URL:use-with-profile}", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}
+
+
+
+

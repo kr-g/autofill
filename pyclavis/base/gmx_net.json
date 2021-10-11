@@ -1,0 +1,5 @@
+{
+    "name":"gmx",
+    "url" : "https://www.gmx.{TLD:net}/", 
+    "autofill": "{USER}\n{TAB}\n{PASSWORD}\n{ENTER}"
+}
