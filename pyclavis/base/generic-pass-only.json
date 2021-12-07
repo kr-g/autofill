@@ -1,0 +1,5 @@
+{
+    "name":"generic_pass_only",
+    "url" : "{URL:use-with-profile}", 
+    "autofill": "{PASSWORD}\n{ENTER}"
+}
