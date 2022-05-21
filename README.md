@@ -23,8 +23,8 @@ there are 3 generic auto-fill provider available which should fit the most commo
 |name|remark|
 |---|---|
 |`generic`|the most common case where user and password is on a single html page|
-|`generic-2-steps`|a provider where user and password are entered on 2 different html, with a intermediate server-call between the 2 html pages. can be custominze by parameter `NDELAY` |
-|`generic-pass-only`|a provider where only a password is required to log-in such as e.g. local Fritz.Box router|
+|`generic-2-steps`|a provider where user and password are entered on 2 different html pages, with an intermediate server-call between the 2 html pages. can be custominzed by parameter `NDELAY` |
+|`generic-pass-only`|a provider where only a password is required to log-in, such as e.g. local Fritz.Box router|
 
 
 # related toolset
