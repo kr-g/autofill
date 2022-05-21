@@ -1,0 +1,5 @@
+{
+    "name":"yahoo",
+    "url" : "https://login.yahoo.com", 
+    "autofill": "{USER}\n{ENTER}\n{DELAY {NDELAY:2000}}\n{PASSWORD}\n{ENTER}"
+}
